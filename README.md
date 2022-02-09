@@ -11,6 +11,8 @@ Realizar uma aplicação de cadastro de séries no Console, com as seguintes fun
 - Excluir séries;
 
 ## :pencil: Plano de Melhorias:
-:o: Cadastramento de Filmes(em andamento);
+:o: Cadastramento de Filmes(Não iniciada);
 <br>
-:o: Confirmação para exclusão de filme ou série(em andamento);
+:o: Confirmação para exclusão de filme ou série(Não iniciada);
+<br>
+:o: Salvar os dados em um banco de dados(Não iniciada);
